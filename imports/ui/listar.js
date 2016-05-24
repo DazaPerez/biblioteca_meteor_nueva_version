@@ -27,6 +27,7 @@ import './registroEstudiantes.js';
         Libros.remove(this._id)
     },
 
+
     'click .libro': function (){
         console.log("User: ", this);
         Session.set('nombre', this.name);
