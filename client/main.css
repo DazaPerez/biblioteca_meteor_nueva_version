@@ -1,0 +1,29 @@
+/* CSS declarations go here */
+
+.block-a{
+	background:green;
+	padding: 20px;
+	height: 350px;
+	border: 2px solid black;
+	overflow:scroll;
+}
+
+.block-b{
+	background:red;
+	padding: 20px;
+	height: 350px;
+	overflow:scroll;
+}
+
+.block-c{
+	background:red;
+	padding: 20px;
+	height: 270px;
+	border: 1px solid black
+}
+.block-d{
+	background:green;
+	padding: 20px;
+	height: 270px;
+	border: 1px solid black
+}
